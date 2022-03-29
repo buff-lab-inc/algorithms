@@ -18,8 +18,8 @@ def solution(s):
 
 
 
-
-def compress(text, tok_len):
+# 다른예시
+def compress2(text, tok_len):
     words = [text[i:i+tok_len] for i in range(0, len(text), tok_len)]
     res = []
     cur_word = words[0]
