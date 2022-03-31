@@ -1,6 +1,4 @@
-
-
-값이 나오지 않는 이유를 모르겠습니다우ㅜㅜ
+// 값이 나오지 않는 이유를 모르겠습니다우ㅜㅜ
 function solution(s) {
   const numList = {
     zero: "0",
